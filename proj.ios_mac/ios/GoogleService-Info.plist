@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>999530822706-rmsrg7ubfpqqmherq24vsqfdoa1bobm8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.999530822706-rmsrg7ubfpqqmherq24vsqfdoa1bobm8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>999530822706-l3uq97u0ue1f1hi80mt0tiv2q5hfos26.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDK6n6_sDEGdfKr51y1-pjHSMBUpN5YgrQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>999530822706</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dd.triplejump</string>
+	<key>PROJECT_ID</key>
+	<string>hungry-fish---triple-jump-7495</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hungry-fish---triple-jump-7495.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:999530822706:ios:bec4506cad0592aff9902b</string>
+	<key>DATABASE_URL</key>
+	<string>https://hungry-fish---triple-jump-7495.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-3405646388402314~5069360949</string>
+</dict>
+</plist>

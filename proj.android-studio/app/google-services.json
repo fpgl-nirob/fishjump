@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999530822706",
+    "firebase_url": "https://hungry-fish---triple-jump-7495.firebaseio.com",
+    "project_id": "hungry-fish---triple-jump-7495",
+    "storage_bucket": "hungry-fish---triple-jump-7495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999530822706:android:92ed0e6d2c238e21f9902b",
+        "android_client_info": {
+          "package_name": "com.dd.triplejump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999530822706-s884og16q6csrkfo3otd0q55bced2i80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTTdKXMM2M8aw4PtkYvfzuqK5ezgvQ8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999530822706-s884og16q6csrkfo3otd0q55bced2i80.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999530822706-rmsrg7ubfpqqmherq24vsqfdoa1bobm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dd.triplejump"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3405646388402314~6932272802"
+    }
+  ],
+  "configuration_version": "1"
+}
